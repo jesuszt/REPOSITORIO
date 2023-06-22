@@ -1,0 +1,20 @@
+
+h1{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #FF5733;
+    border: 50px solid #CD5C5C;
+    text-align: center;
+    margin: auto 50px;
+}
+body{
+    background-color: hsl(180, 100%, 33%);
+}
+pre{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color:#FF5733;
+    border: 50px solid #0000AA;
+    margin: auto 50px;
+
+}
